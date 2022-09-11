@@ -25,5 +25,5 @@ settings
 remember-video-quality
 video-ads
 general-ads
-custom-branding --key appName --value "SkullTube" 
+custom-branding 
 old-quality-layout
