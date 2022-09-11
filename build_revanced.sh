@@ -96,7 +96,7 @@ if [ -f "com.google.android.youtube.apk" ]; then
         -a com.google.android.youtube.apk -o build/revanced-root.apk
     echo "Building Non-root APK"
     java -jar revanced-cli.jar -m revanced-integrations.apk -b revanced-patches.jar \
-        ${patches[@]} \
+        -i custom-branding --key appName --value "SkullTube" ${patches[@]} \
         $EXPERIMENTAL \
         -a com.google.android.youtube.apk -o build/revanced-nonroot.apk
 else
