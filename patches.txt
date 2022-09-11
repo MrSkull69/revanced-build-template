@@ -1,9 +1,9 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-old-quality-layout
 hide-shorts-button
 always-autorepeat
 hide-infocard-suggestions
 disable-fullscreen-panels
+hide-autoplay-button
 
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 downloads
@@ -18,9 +18,12 @@ enable-wide-searchbar
 minimized-playback
 tablet-mini-player
 microg-support
-custom-video-buffer
+enable-debugging
+theme
 client-spoof
 settings
 remember-video-quality
 video-ads
 general-ads
+custom-branding
+old-quality-layout
