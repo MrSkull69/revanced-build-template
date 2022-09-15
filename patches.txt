@@ -4,6 +4,11 @@ always-autorepeat
 hide-infocard-suggestions
 disable-fullscreen-panels
 hide-autoplay-button
+premium-heading
+enable-debugging
+theme
+custom-branding 
+
 
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 downloads
@@ -12,18 +17,17 @@ amoled
 disable-create-button
 hide-cast-button
 return-youtube-dislike
-premium-heading
 sponsorblock
-enable-wide-searchbar
+
 minimized-playback
 tablet-mini-player
 microg-support
-enable-debugging
-theme
+enable-wide-searchbar
+
 client-spoof
 settings
 remember-video-quality
 video-ads
 general-ads
-custom-branding 
+
 old-quality-layout
